@@ -1,4 +1,4 @@
-# MarovCommunity
+# Marov Community Detection
 This module create a stochastic block model and performs clustering on the resulted graph using slow mixing random walk.
 Few animated examples are added in /Demo folder which shows the performance of algorithm. This work is presented in 
 
